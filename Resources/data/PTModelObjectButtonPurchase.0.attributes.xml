@@ -1,0 +1,700 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"/>
+
+<plist version="1.0">
+    <dict>
+        <key>ROOT</key>
+        <array>
+            <dict>
+                <key>id</key>
+                <string>20457</string>
+                <key>className</key>
+                <string>PTModelObjectButtonPurchase</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Purchase Button</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{861.007,683.741}</string>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{11.326,1.000}</string>
+                </dict>
+                <key>Hidden</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Locked</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Powerup Selection</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>20386</string>
+                </dict>
+                <key>Type</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kPurchasePowerup</string>
+                </dict>
+                <key>Back To</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string></string>
+                </dict>
+                <key>Back To World</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string></string>
+                </dict>
+                <key>Keyboard Key</key>
+                <dict>
+                    <key>value</key>
+                    <string>-1</string>
+                </dict>
+                <key>Touch Emulation</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Buy And Use</key>
+                <dict>
+                    <key>value</key>
+                    <string>1</string>
+                </dict>
+                <key>Quantity</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Purchase Method</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kInGameCurrency</string>
+                </dict>
+                <key>Store Identifier</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string></string>
+                </dict>
+                <key>Ad Network</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string>kHeyzap</string>
+                </dict>
+                <key>zDepth</key>
+                <string>6</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>20590</string>
+                <key>className</key>
+                <string>PTModelObjectButtonPurchase</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Purchase Button</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{861.007,698.741}</string>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{11.326,1.000}</string>
+                </dict>
+                <key>Hidden</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Locked</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Powerup Selection</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>20386</string>
+                </dict>
+                <key>Type</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kPurchasePowerup</string>
+                </dict>
+                <key>Back To</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string></string>
+                </dict>
+                <key>Back To World</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string></string>
+                </dict>
+                <key>Keyboard Key</key>
+                <dict>
+                    <key>value</key>
+                    <string>-1</string>
+                </dict>
+                <key>Touch Emulation</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Buy And Use</key>
+                <dict>
+                    <key>value</key>
+                    <string>1</string>
+                </dict>
+                <key>Quantity</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Purchase Method</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kInAppPurchase</string>
+                </dict>
+                <key>Price</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Store Identifier</key>
+                <dict>
+                    <key>value</key>
+                    <string></string>
+                </dict>
+                <key>Ad Network</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string>kHeyzap</string>
+                </dict>
+                <key>zDepth</key>
+                <string>9</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>20631</string>
+                <key>className</key>
+                <string>PTModelObjectButtonPurchase</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Purchase Button</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{862.391,547.105}</string>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{11.326,1.000}</string>
+                </dict>
+                <key>Hidden</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Locked</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Powerup Selection</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>20652</string>
+                </dict>
+                <key>Type</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kPurchasePowerup</string>
+                </dict>
+                <key>Back To</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string></string>
+                </dict>
+                <key>Back To World</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string></string>
+                </dict>
+                <key>Keyboard Key</key>
+                <dict>
+                    <key>value</key>
+                    <string>-1</string>
+                </dict>
+                <key>Touch Emulation</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Buy And Use</key>
+                <dict>
+                    <key>value</key>
+                    <string>1</string>
+                </dict>
+                <key>Quantity</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Purchase Method</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kInAppPurchase</string>
+                </dict>
+                <key>Price</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Store Identifier</key>
+                <dict>
+                    <key>value</key>
+                    <string></string>
+                </dict>
+                <key>Ad Network</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string>kHeyzap</string>
+                </dict>
+                <key>zDepth</key>
+                <string>10</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>20634</string>
+                <key>className</key>
+                <string>PTModelObjectButtonPurchase</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Purchase Button</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{861.007,396.319}</string>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{11.326,1.000}</string>
+                </dict>
+                <key>Hidden</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Locked</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Powerup Selection</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>20668</string>
+                </dict>
+                <key>Type</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kPurchasePowerup</string>
+                </dict>
+                <key>Back To</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string></string>
+                </dict>
+                <key>Back To World</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string></string>
+                </dict>
+                <key>Keyboard Key</key>
+                <dict>
+                    <key>value</key>
+                    <string>-1</string>
+                </dict>
+                <key>Touch Emulation</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Buy And Use</key>
+                <dict>
+                    <key>value</key>
+                    <string>1</string>
+                </dict>
+                <key>Quantity</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Purchase Method</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kInAppPurchase</string>
+                </dict>
+                <key>Price</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Store Identifier</key>
+                <dict>
+                    <key>value</key>
+                    <string></string>
+                </dict>
+                <key>Ad Network</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string>kHeyzap</string>
+                </dict>
+                <key>zDepth</key>
+                <string>24</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>20701</string>
+                <key>className</key>
+                <string>PTModelObjectButtonPurchase</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Purchase Button</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{861.007,698.741}</string>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{11.326,1.000}</string>
+                </dict>
+                <key>Hidden</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Locked</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Powerup Selection</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>20386</string>
+                </dict>
+                <key>Type</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kPurchasePowerup</string>
+                </dict>
+                <key>Back To</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string></string>
+                </dict>
+                <key>Back To World</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string></string>
+                </dict>
+                <key>Keyboard Key</key>
+                <dict>
+                    <key>value</key>
+                    <string>-1</string>
+                </dict>
+                <key>Touch Emulation</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Buy And Use</key>
+                <dict>
+                    <key>value</key>
+                    <string>1</string>
+                </dict>
+                <key>Quantity</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Purchase Method</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kInAppPurchase</string>
+                </dict>
+                <key>Price</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Store Identifier</key>
+                <dict>
+                    <key>value</key>
+                    <string>5678ujhgfr56</string>
+                </dict>
+                <key>Ad Network</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string>kHeyzap</string>
+                </dict>
+                <key>zDepth</key>
+                <string>9</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>20710</string>
+                <key>className</key>
+                <string>PTModelObjectButtonPurchase</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Purchase Button</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{862.391,547.105}</string>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{11.326,1.000}</string>
+                </dict>
+                <key>Hidden</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Locked</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Powerup Selection</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>20652</string>
+                </dict>
+                <key>Type</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kPurchasePowerup</string>
+                </dict>
+                <key>Back To</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string></string>
+                </dict>
+                <key>Back To World</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string></string>
+                </dict>
+                <key>Keyboard Key</key>
+                <dict>
+                    <key>value</key>
+                    <string>-1</string>
+                </dict>
+                <key>Touch Emulation</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Buy And Use</key>
+                <dict>
+                    <key>value</key>
+                    <string>1</string>
+                </dict>
+                <key>Quantity</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Purchase Method</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kInAppPurchase</string>
+                </dict>
+                <key>Price</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Store Identifier</key>
+                <dict>
+                    <key>value</key>
+                    <string>ghjw8jn2ih3ebf</string>
+                </dict>
+                <key>Ad Network</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string>kHeyzap</string>
+                </dict>
+                <key>zDepth</key>
+                <string>10</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>20711</string>
+                <key>className</key>
+                <string>PTModelObjectButtonPurchase</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Purchase Button</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{861.007,396.319}</string>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{11.326,1.000}</string>
+                </dict>
+                <key>Hidden</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Locked</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Powerup Selection</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>20668</string>
+                </dict>
+                <key>Type</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kPurchasePowerup</string>
+                </dict>
+                <key>Back To</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string></string>
+                </dict>
+                <key>Back To World</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string></string>
+                </dict>
+                <key>Keyboard Key</key>
+                <dict>
+                    <key>value</key>
+                    <string>-1</string>
+                </dict>
+                <key>Touch Emulation</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Buy And Use</key>
+                <dict>
+                    <key>value</key>
+                    <string>1</string>
+                </dict>
+                <key>Quantity</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Purchase Method</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kInAppPurchase</string>
+                </dict>
+                <key>Price</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Store Identifier</key>
+                <dict>
+                    <key>value</key>
+                    <string>vghwk2ou23ib2ib</string>
+                </dict>
+                <key>Ad Network</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string>kHeyzap</string>
+                </dict>
+                <key>zDepth</key>
+                <string>24</string>
+            </dict>
+        </array>
+    </dict>
+</plist>

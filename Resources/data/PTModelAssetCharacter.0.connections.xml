@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"/>
+
+<plist version="1.0">
+    <dict>
+        <key>ROOT</key>
+        <array>
+            <dict>
+                <key>id</key>
+                <string>141</string>
+                <key>Default Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>147</string>
+                </dict>
+                <key>Move Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>13102</string>
+                </dict>
+                <key>Defeated Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>15227</string>
+                </dict>
+                <key>Defeated Sound</key>
+                <dict>
+                    <key>value</key>
+                    <string>20746</string>
+                </dict>
+                <key>components</key>
+                <array>
+                    <string>144</string>
+                    <string>5790</string>
+                    <string>5795</string>
+                    <string>18591</string>
+                </array>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>19640</string>
+                <key>Default Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>19653</string>
+                </dict>
+                <key>Move Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>19762</string>
+                </dict>
+                <key>Defeated Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>19763</string>
+                </dict>
+                <key>Defeated Sound</key>
+                <dict>
+                    <key>value</key>
+                    <string>20747</string>
+                </dict>
+                <key>components</key>
+                <array>
+                    <string>19642</string>
+                    <string>19643</string>
+                    <string>19646</string>
+                    <string>19885</string>
+                </array>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>18150</string>
+                <key>Default Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>18160</string>
+                </dict>
+                <key>Move Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>18270</string>
+                </dict>
+                <key>Defeated Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>18271</string>
+                </dict>
+                <key>Defeated Sound</key>
+                <dict>
+                    <key>value</key>
+                    <string>20748</string>
+                </dict>
+                <key>components</key>
+                <array>
+                    <string>18152</string>
+                    <string>18153</string>
+                    <string>18156</string>
+                    <string>18777</string>
+                    <string>19965</string>
+                </array>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>18793</string>
+                <key>Default Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>18806</string>
+                </dict>
+                <key>Move Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>18915</string>
+                </dict>
+                <key>Defeated Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>18916</string>
+                </dict>
+                <key>Defeated Sound</key>
+                <dict>
+                    <key>value</key>
+                    <string>20749</string>
+                </dict>
+                <key>components</key>
+                <array>
+                    <string>18795</string>
+                    <string>18796</string>
+                    <string>18799</string>
+                    <string>18802</string>
+                    <string>19973</string>
+                </array>
+            </dict>
+        </array>
+    </dict>
+</plist>
